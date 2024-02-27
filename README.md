@@ -4,7 +4,7 @@
 
 ### Hi guys 👋
 
-<img src="https://bubkoo-server.vercel.app/365dots" height="196"/>
+<img src="https://bubkoo-server.vercel.app/365dots" style="margin-top:13px;" height="196"/>
 <!--
 **ZzanZiFeng/ZzanZiFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
