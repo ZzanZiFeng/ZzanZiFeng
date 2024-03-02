@@ -9,7 +9,7 @@
         </div>
            <p style="display: flex;justify-content: space-between;align-items: flex-end;margin-top: 20px ">
               <img src="https://github-readme-stats.vercel.app/api?username=ZzanZiFeng&show_icons=true&theme=radical" />
-              <img src="https://access-counter.vercel.app/api/counter?name=ZzanZiFeng&theme=006&length=10" />
+              <img src="https://access-counter.vercel.app/api/counter?name=ZzanZiFeng&theme=006&length=4" />
               </p>
               <img  style="margin-top: 20px" src="https://github-readme-activity-graph.vercel.app/graph?username=ZzanZiFeng&theme=github&height=250" />
 
