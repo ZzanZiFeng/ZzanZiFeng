@@ -1,4 +1,4 @@
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true](https://github-readme-stats.vercel.app/api?username=ZzanZiFeng&show_icons=true&theme=radical&count_private=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZzanZiFeng&show_icons=true&theme=radical&count_private=true)
   <div style="display: flex;" >
         <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
         <img
